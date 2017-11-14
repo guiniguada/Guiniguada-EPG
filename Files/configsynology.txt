@@ -1,0 +1,112 @@
+{
+	"channel_rename": false,
+	"channel_renumber": false,
+	"channel_reicon": false,
+	"epgdb_periodicsave": 0,
+	"cron": "# Default config (00:04 and 12:04 everyday)\n4 */12 * * *",
+	"ota_initial": true,
+	"ota_cron": "# Default config (02:04 and 14:04 everyday)\n4 2 * * *\n4 14 * * *",
+	"ota_timeout": 600,
+	"modules": {
+		"/usr/local/bin/tv_grab_movistar-guiniguada": {
+			"class": "epggrab_mod_int_xmltv",
+			"dn_chnum": 0,
+			"name": "XMLTV: tv_grab_file - Grabber EPG-GUINIGUADA Movistar TV",
+			"type": "Internal",
+			"enabled": true,
+			"priority": 3
+		},
+		"xmltv": {
+			"class": "epggrab_mod_ext_xmltv",
+			"dn_chnum": false,
+			"name": "XMLTV",
+			"type": "External",
+			"enabled": false,
+			"priority": 3
+		},
+		"pyepg": {
+			"class": "epggrab_mod_ext_pyepg",
+			"name": "PyEPG",
+			"type": "External",
+			"enabled": false,
+			"priority": 4
+		},
+		"opentv-skyuk": {
+			"class": "epggrab_mod_ota",
+			"name": "OpenTV: Sky UK",
+			"type": "Over-the-air",
+			"enabled": false,
+			"priority": 2
+		},
+		"opentv-skyit": {
+			"class": "epggrab_mod_ota",
+			"name": "OpenTV: Sky Italia",
+			"type": "Over-the-air",
+			"enabled": false,
+			"priority": 2
+		},
+		"opentv-skynz": {
+			"class": "epggrab_mod_ota",
+			"name": "OpenTV: Sky NZ",
+			"type": "Over-the-air",
+			"enabled": false,
+			"priority": 2
+		},
+		"opentv-ausat": {
+			"class": "epggrab_mod_ota",
+			"name": "OpenTV: Ausat",
+			"type": "Over-the-air",
+			"enabled": false,
+			"priority": 2
+		},
+		"psip": {
+			"class": "epggrab_mod_ota",
+			"name": "PSIP: ATSC Grabber",
+			"type": "Over-the-air",
+			"enabled": false,
+			"priority": 1
+		},
+		"Bulsatcom_39E": {
+			"class": "epggrab_mod_ota",
+			"name": "Bulsatcom: Bula 39E",
+			"type": "Over-the-air",
+			"enabled": false,
+			"priority": 5
+		},
+		"viasat_baltic": {
+			"class": "epggrab_mod_ota",
+			"name": "VIASAT: Baltic",
+			"type": "Over-the-air",
+			"enabled": false,
+			"priority": 5
+		},
+		"nz_freeview": {
+			"class": "epggrab_mod_ota",
+			"name": "New Zealand: Freeview",
+			"type": "Over-the-air",
+			"enabled": false,
+			"priority": 5
+		},
+		"uk_freeview": {
+			"class": "epggrab_mod_ota",
+			"name": "UK: Freeview",
+			"type": "Over-the-air",
+			"enabled": false,
+			"priority": 5
+		},
+		"uk_freesat": {
+			"class": "epggrab_mod_ota",
+			"name": "UK: Freesat",
+			"type": "Over-the-air",
+			"enabled": false,
+			"priority": 5
+		},
+		"eit": {
+			"class": "epggrab_mod_ota",
+			"name": "EIT: DVB Grabber",
+			"type": "Over-the-air",
+			"enabled": false,
+			"priority": 1
+		}
+	}
+}
