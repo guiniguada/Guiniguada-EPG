@@ -66,3 +66,14 @@ Procesos:
 
 	6.- Start de servicio Tvheadend
 
+Archivo canalesmovistar.txt
+
+
+	.- Este archivo nos permite especificar el numero de canales que deseamos descargar.
+	   
+	   Tenemos tres columnas por linea:
+
+		ABC, ABC tv, (1) este valor indica que se descarga
+
+		ABC, ABC tv, (0) este valor indica que no se descarga
+
