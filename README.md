@@ -19,4 +19,4 @@ Si no tienes lista de canales y picons se recomienda la utilización del script 
 Enlace: https://www.kodimania.com/viewtopic.php?f=58&t=8075
 
 
-Agredicimientos a Manuelin y a todos los compañeros del grupo de telegram que me han ayudado a testear.
+Agredicimientos a Manuelin por sus conocimientos y colaboración, y a todos los compañeros del grupo de telegram que me han ayudado a testear.
