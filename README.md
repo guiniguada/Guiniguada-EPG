@@ -2,9 +2,9 @@
 
 				Guia EPG, Lista de Canales Sat e Iconos.
 
-		Scripts que permiten la descarga de la EPG de todos los canales de M+ para Tvheadend, utilizando 
+		Scripts que permiten la descarga de la EPG de todos los canales de M+ para Tvheadend, 
 
-	dos fuentes diferentes, en caso de que una de ellas este caída. 
+	utilizando dos fuentes diferentes, en caso de que una de ellas este caída. 
 
 		Mostrando toda la información técnica del programa, imdb rating películas, estreno, directo, 
 
@@ -12,9 +12,9 @@
 
 		Si no se obtienen imágenes de Series y Películas se intentan obtener de otras fuentes.
 
-		Todas las categorías de la parrilla están coordinadas con los géneros de Tvheadend, por lo que en Kodi
-
-	la epg sale con sus respectivos colores.
+		Todas las categorías de la parrilla están coordinadas con los géneros de Tvheadend, 
+	
+	por lo que en Kodi la epg sale con sus respectivos colores.
 
 		Disponible para:
 
