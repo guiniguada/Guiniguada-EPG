@@ -1,20 +1,22 @@
 ﻿ 						Guiniguada-EPG
 
-	Scripts que permiten la descarga de la EPG de todos los canales de Movistar+ para Tvheadend, utilizando dos fuentes diferentes, en caso de que una de ellas este caída. 
+				Guia EPG, Lista de Canales Sat e Iconos.
+
+		Scripts que permiten la descarga de la EPG de todos los canales de M+ para Tvheadend, utilizando dos fuentes diferentes, en caso de que una de ellas este caída. 
 
 	Mostrando toda la información técnica del programa, imdb rating películas, estreno, directo, incluidas imágenes.
 
-	Si no se obtienen imágenes de Series y Películas se intentan obtener de otras fuentes.
+		Si no se obtienen imágenes de Series y Películas se intentan obtener de otras fuentes.
 
 	Todas las categorías de la parrilla están coordinadas con los géneros de Tvheadend, por lo que en Kodi la epg sale con sus respectivos colores.
 
-	Disponible para:
+		Disponible para:
 
-	.- Synology/XPEnology
+		.- Synology/XPEnology
 
-	.- Linux
+		.- Linux
 
-	.- LibreElec
+		.- LibreElec
 
 	Guía de instalación y funcionamiento explicado en el foro de Kodimania.	(Proximamente)
 
