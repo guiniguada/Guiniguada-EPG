@@ -1,20 +1,28 @@
 ﻿ 						Guiniguada-EPG
 
-				Guia EPG, Lista de Canales Sat e Iconos.
+				Guia EPG, Lista de Canales Satelite, IPTV e Iconos.
 
 		Scripts que permiten la descarga de la EPG de todos los canales de M+ para Tvheadend, 
 
-	utilizando dos fuentes diferentes, en caso de que una de ellas este caída. 
+	utilizando tres fuentes diferentes, en caso de que una de ellas este caída. 
 
-		Mostrando toda la información técnica del programa, imdb rating películas, estreno, directo, 
+		Todos los canales mapeados con epg, tags e iconos. Solo canales contratados.
 
-	incluidas imágenes.
+		Listas IPTV unicast o multicast, la lista se actualiza sola.
+
+		Mostrando toda la información técnica del programa, imdb rating películas y series, estreno, directo, 
+
+	incluidas imágenes de cada uno de los programas de la parrilla.
 
 		Si no se obtienen imágenes de Series y Películas se intentan obtener de otras fuentes.
 
 		Todas las categorías de la parrilla están coordinadas con los géneros de Tvheadend, 
 	
 	por lo que en Kodi la epg sale con sus respectivos colores.
+	
+		Añadidos Tags para listas de canales, Informativos, Series, etc.
+
+		Descarga automatica utilizando crontab.
 
 		Disponible para:
 
@@ -23,12 +31,14 @@
 		.- Linux
 
 		.- LibreElec
+		
+		.- Windows (Desarrollo - solo EPG)
 
 	Guía de instalación y funcionamiento explicado en el foro de Kodimania.	(Proximamente)
 
 	.- www.kodimania.com
 
-
+	.- Lista m3u obtenida de ADSLZONE. https://www.adslzone.net/postt350532.html
 
 	Agradecimientos:
 
@@ -39,3 +49,7 @@
 	.- a los compañeros del grupo de telegram Guiniguada-EPG que me han ayudado a testear,
 
 	   especialmente a Diego, Ambit, Alberto, Manuel, McGregor.
+
+	.- a Master IPTV España por los iconos.
+
+	.- ADSLZONE. https://www.adslzone.net
