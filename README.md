@@ -34,7 +34,7 @@
 		
 		.- Windows (Solo EPG. Instalación y funcionamiento aqui: https://www.kodimania.com/viewtopic.php?f=15&p=84402#p84402)
 
-	Guía de instalación y funcionamiento explicado en el foro de Kodimania.	(Proximamente)
+	Guía de instalación y funcionamiento:https://github.com/guiniguada/Guiniguada-EPG
 
 	.- www.kodimania.com
 
