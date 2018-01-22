@@ -34,6 +34,8 @@
 		
 		.- Windows (Solo EPG. Instalación y funcionamiento aqui: https://www.kodimania.com/viewtopic.php?f=15&p=84402#p84402)
 
+		.- Versión para QNAP en breve. -- 22/01/2018
+
 	Guía de instalación y funcionamiento:https://github.com/guiniguada/Guiniguada-EPG
 
 	.- www.kodimania.com
