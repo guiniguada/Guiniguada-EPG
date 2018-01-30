@@ -32,9 +32,13 @@
 
 		.- LibreElec
 		
-		.- Windows (Solo EPG. Instalación y funcionamiento aqui: https://www.kodimania.com/viewtopic.php?f=15&p=84402#p84402)
+		.- Windows (Solo EPG)
 
-		.- Versión para QNAP en breve. -- 22/01/2018
+		.- Qnap
+
+		.- Debian
+
+		.- Osmc Debian
 
 	Guía de instalación y funcionamiento:https://github.com/guiniguada/Guiniguada-EPG
 
@@ -44,14 +48,23 @@
 
 	Agradecimientos:
 
+	.- a Alejandro y Gregorio(McGregor) por los logos para Telegram.
+
+	.- a Noel y Master IPTV España por sus iconos.
+
+	.- a JesCr y Nick, por su aportación para Qnap.
+
+	.- a Juan Carlos por la maquetación de la Biblia de Guiniguada-EPG
+
+	.- al grupo Vip.
+
+	.- Y especialmente a Alberto, sin cuya ayuda esto no seria posible.
+
  	.- a Manuelin por sus conocimientos y colaboración.
 
 	.- a eLriK por sus ideas para el diseño de la info en Kodi.
 
-	.- a los compañeros del grupo de telegram Guiniguada-EPG que me han ayudado a testear,
-
-	   especialmente a Diego, Ambit, Alberto, Manuel, McGregor.
-
-	.- a Master IPTV España por los iconos.
+	.- a los compañeros del grupo de telegram Guiniguada-EPG que me han ayudado a testear.
 
 	.- ADSLZONE. https://www.adslzone.net
+	
