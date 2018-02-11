@@ -46,6 +46,8 @@
 
 	.- Lista m3u obtenida de ADSLZONE. https://www.adslzone.net/postt350532.html
 
+	.- Donaciones: https://www.paypal.me/GuiniguadaEPG
+
 	Agradecimientos:
 
 	.- a Alejandro y Gregorio(McGregor) por los logos para Telegram.
